@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/Xma/AwesomeProject/node_modules/react-native/React/Modules/RCTSourceCode.h
